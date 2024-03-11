@@ -1,0 +1,6 @@
+Can an interface extend more than one interface in Dart?
+
+
+ans----
+
+yes an  interface can extend multiple interfaces.

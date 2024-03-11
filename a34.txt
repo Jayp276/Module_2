@@ -1,0 +1,7 @@
+Can a class extend by itself in Dart?
+
+
+Ans--------
+
+No, you cannot make a class extend itself.
+

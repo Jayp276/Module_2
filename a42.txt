@@ -1,0 +1,6 @@
+Can a subclass instance method override a superclass static method? 
+
+Ans----
+
+
+No, we cannot override static methods.

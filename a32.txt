@@ -1,0 +1,5 @@
+How do you restrict a member of a class from inheriting by its sub classes?
+
+ans-
+
+Using the final keyword in the class's declaration.

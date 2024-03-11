@@ -1,0 +1,9 @@
+What are the rules of method overriding in Dart?
+
+
+
+ans-
+
+two class have same name method with same arguments
+the overriding method must be defined in the subclass, not in the same class.
+

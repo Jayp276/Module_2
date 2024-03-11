@@ -1,0 +1,5 @@
+What happens if the parent and the child class have a field with same identifier? 
+
+ans--
+
+it will not be able to access the members (functions or variables) of the child class.

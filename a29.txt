@@ -1,0 +1,7 @@
+What will happen if a class implements two interfaces and they both have a method with same name and signature?
+
+
+Ans--
+
+
+The implementing class can implement both interface methods with a single concrete method.

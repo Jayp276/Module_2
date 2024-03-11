@@ -1,0 +1,7 @@
+Difference between object oriented and object based language.
+
+
+Ans----
+
+
+Object-based languages need not support inheritance , but those that do are also termed object-oriented.

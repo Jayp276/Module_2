@@ -1,0 +1,6 @@
+Can a superclass access subclass member?
+
+
+Ans--- 
+
+No, a superclass has no knowledge of its subclasses.

@@ -1,0 +1,6 @@
+How do you implement multiple inheritance in Dart?
+
+
+ans-
+
+Dart does not support multiple inheritance.

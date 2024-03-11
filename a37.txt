@@ -1,0 +1,6 @@
+What the order is of extends keyword on Dart class declaration?
+
+Ans---
+
+
+In Dart, when declaring a class, the `extends` keyword, used for specifying a superclass.

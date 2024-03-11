@@ -1,0 +1,8 @@
+Can we override static method in Dart?
+
+
+
+Ans---
+
+No, it's not possible to override static methods in Dart. 
+

@@ -1,0 +1,16 @@
+
+Difference between inheritance and encapsulation.
+Difference between inheritance and abstraction.
+
+
+
+
+
+
+1. **Inheritance vs. Encapsulation**:
+
+   Encapsulation  hide implementation details of object and Inheritance is defined relationship between class.
+
+2. **Inheritance vs. Abstraction**:
+
+      Inheritance is  used for code reusability  and abstraction is use for simplifies  the complex system and high level design.

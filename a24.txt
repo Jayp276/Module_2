@@ -1,0 +1,8 @@
+Difference between inheritance and polymorphism.
+
+
+
+
+Ans-----
+
+- Inheritance is created one class and used in child class means defined relationship between class while polymorphism means one named method has different forms.
